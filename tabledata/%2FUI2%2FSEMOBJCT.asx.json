@@ -1,0 +1,14 @@
+[
+ {
+  "table":"/UI2/SEMOBJCT",
+  "data":
+  [
+   {
+    "LANGUAGE":"E",
+    "SEM_OBJ":"rapapps",
+    "SEM_OBJ_NAME":"rapapps",
+    "SEM_OBJ_TEXT":"RestFull Aplications Apps"
+   }
+  ]
+ }
+]
